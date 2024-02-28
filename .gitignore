@@ -129,9 +129,9 @@ env.bak/
 venv.bak/
 
 # Data
-data
-data/
-faiss_index
+#data
+#data/
+#faiss_index
 
 # Spyder project settings
 .spyderproject
